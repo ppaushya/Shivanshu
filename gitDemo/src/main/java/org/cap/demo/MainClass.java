@@ -17,6 +17,8 @@ public class MainClass {
 		System.out.println("yeh duniya mere kaam ki nahi!!!");
 		System.out.println("yeh duniya mere kaam ki nahi!!!");
 		System.out.println("yeh duniya mere kaam ki nahi!!!");
+		
+		System.out.println("ek baar dekho");
 
 	}
 
